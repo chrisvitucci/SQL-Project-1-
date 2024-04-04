@@ -4,7 +4,7 @@ MIST 4610 - SQL Project 1
 2. Maya Patel (https://github.com/mayapatel47488/SQL-Project-1-)
 3. Sofia Slavov (https://github.com/sophiaslavovv/SQL-PROJ-1)
 4. Cade Mayfield
-5. Chris Vitucci 
+5. Chris Vitucci (https://github.com/chrisvitucci/SQL-Project-1)
 
 
 <u>Problem Description:</u>
